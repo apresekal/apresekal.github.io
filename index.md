@@ -21,4 +21,8 @@ I am a Ph.D. researcher at [Delft University of Technology](https://research.tud
 
 {% include_relative _includes/publications.md %}
 
+## Publications
+
+- H. Pardede, K. Ramli, Y. Suryanto, N. Hayati and **A. Presekal**, "[**Speech enhancement for secure communication using coupled spectral subtraction and Wiener filter**](https://www.mdpi.com/2079-9292/8/8/897)", Electronics, vol. 8, no. 8, pp. 897, Aug. 2019.
+
 <!-- {% include_relative _includes/services.md %} -->
