@@ -13,10 +13,10 @@ canonical: https://presekal.com
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=rcqaVKMAAAAJ&hl=en
-# cv_link: assets/files/curriculum_vitae.pdf
-# github_link: https://github.com/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/alfanpresekal
 linkedin: https://www.linkedin.com/in/presekal
-# twitter: https://twitter.com/
+twitter: https://orcid.org/my-orcid?orcid=0000-0002-8323-2856
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
