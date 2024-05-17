@@ -27,6 +27,11 @@ I am a Ph.D. researcher at [Delft University of Technology](https://research.tud
 - R. Harwahyu, **A. Presekal** and R. F. Sari, "[*Lorawan performance evaluation with optimized configuration*](https://www.researchgate.net/publication/326739399_LoRaWAN_Performance_Evaluation_with_Optimized_Configuration)", Int. J. of Future Generation Communication and Networking, vol. 11, no. 4, pp. 51-68, 2018.
 - E. Ihsanto, J. Kurniawan, D. Husna, **A. Presekal** and K. Ramli, "[*Development and analysis of a zeta method for low-cost, camera-based iris recognition*](https://d1wqtxts1xzle7.cloudfront.net/95745937/Paper_42-Development_and_Analysis_of_a_Zeta_Method-libre.pdf?1671033217=&response-content-disposition=inline%3B+filename%3DDevelopment_and_Analysis_of_a_Zeta_Metho.pdf&Expires=1715936022&Signature=IDyhV6RpNvjt8E13yIfx~qHkg7LrXN1Jtmp6ymGFXB3aKPHms5Pq8~ifLWAdBPovqZzCVJRpyFuRgfG~qfwePRGRIYLorxp4~IH2cVE15v34P965LbWJAy-zRK8KosfctoMyvMTDrnXypGOtL6Ua2cOou5nm5ayg4B2JwNFKgOhbDMm6Lm-1Zv04qk0FDl4XI2HKwluQXTdianMZEKiBkCeHXOZV4gbMNFnRfG7g4~wPqTWZyHQj~-WmkKV8kpjiZ5MJNCwnF6J0pMdIGzFJ-EfjNdRj~vBMeUxZcZmyEZZ8oCVzmuIIVlfYjSEtkZDHT7SKPe2NeaWEqsN3q4nu4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",  International Journal of Advanced Computer Science and Applications, Vol. 11, No. 7, 2020.
 
+
+## Conference and Proceeding Publications
+- **A. Presekal**, A. Ştefanov, V. S. Rajkumar and P. Palensky, "[Cyber Forensic Analysis for Operational Technology Using Graph-Based Deep Learning](https://www.researchgate.net/profile/Alfan-Presekal/publication/376293311_Cyber_Forensic_Analysis_for_Operational_Technology_Using_Graph-Based_Deep_Learning/links/658c343d2468df72d3dd4f31/Cyber-Forensic-Analysis-for-Operational-Technology-Using-Graph-Based-Deep-Learning.pdf)," 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Glasgow, United Kingdom, 2023, pp. 1-7.
+
+
 ## Journal and Article Reviewer Experiences
 - [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100372437&tip=sid&clean=0), 2022 - Now 
 - [IEEE Transactions on Power Delivery](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=61) - [Q1](https://www.scimagojr.com/journalsearch.php?q=17370&tip=sid&clean=0), 2024 - Now 
@@ -37,5 +42,8 @@ I am a Ph.D. researcher at [Delft University of Technology](https://research.tud
 - [EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/) - [Q2](https://www.scimagojr.com/journalsearch.php?q=18202&tip=sid&clean=0), 2024 - Now 
 
 
+## Conference and Proceeding Reviewer Eperiences
+- [12th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems](https://palensky.org/mscpes/2024/), Online Workshop, May 13, 2024
+- [11th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems](https://palensky.org/mscpes/2023/), San Antonio, Texas, USA, May 9, 2023
 
 <!-- {% include_relative _includes/services.md %} -->
