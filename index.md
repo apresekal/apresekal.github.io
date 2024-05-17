@@ -22,6 +22,7 @@ I am a Ph.D. researcher at [Delft University of Technology](https://research.tud
 
 ## Publications
 
+- R. Harwahyu, **A. Presekal** and R. F. Sari, "[*Lorawan performance evaluation with optimized configuration*](https://www.researchgate.net/publication/326739399_LoRaWAN_Performance_Evaluation_with_Optimized_Configuration)", Int. J. of Future Generation Communication and Networking, vol. 11, no. 4, pp. 51-68, 2018.
 - H. Pardede, K. Ramli, Y. Suryanto, N. Hayati and **A. Presekal**, "[*Speech enhancement for secure communication using coupled spectral subtraction and Wiener filter*](https://www.mdpi.com/2079-9292/8/8/897)", Electronics, vol. 8, no. 8, pp. 897, Aug. 2019.
 - R. Harwahyu, **A. Presekal** and R. F. Sari, "[*Lorawan performance evaluation with optimized configuration*](https://www.researchgate.net/publication/326739399_LoRaWAN_Performance_Evaluation_with_Optimized_Configuration)", Int. J. of Future Generation Communication and Networking, vol. 11, no. 4, pp. 51-68, 2018.
 
