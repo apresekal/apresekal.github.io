@@ -35,7 +35,7 @@ layout: homepage
 - V. S. Rajkumar, M. Tealane, A. Ştefanov, **A. Presekal** and P. Palensky, "[Cyber Attacks on Power System Automation and Protection and Impact Analysis,](https://www.researchgate.net/profile/Alfan-Presekal/publication/346808214_Cyber_Attacks_on_Power_System_Automation_and_Protection_and_Impact_Analysis/links/649497288de7ed28ba4cb36c/Cyber-Attacks-on-Power-System-Automation-and-Protection-and-Impact-Analysis.pdf)" 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 247-254.
 
 ## Research Project
-- Cooperative Cyber Protection for Modern Power Grids ([**COCOON**](https://www.cyber-cocoon.eu/)). June 2024 - 2025. Project funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101120221.
+- Cooperative Cyber Protection for Modern Power Grids ([*COCOON*](https://www.cyber-cocoon.eu/)). June 2024 - 2025. Project funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101120221.
 - Vulnerabilities of Protection concepts for AC/DC Architectures on the Cyber Events/Cyber Attacks (WP3) - [*HVDC-WISE*](https://hvdc-wise.eu/). August 2023 - July 2024. HVDC-WISE is supported by the European Union’s Horizon Europe program under agreement 101075424. UK Research and Innovation funding for HVDC-WISE is provided under the UK government’s Horizon Europe funding guarantee [grant no. 10041877 & 10051113].
 - Control Room of The Future (CRoF), part of Electrical Sustainable Power Lab ([ESP Lab](https://www.tudelft.nl/ewi/onderzoek/faciliteiten/esp-lab)), TU Delft. January 2020 - 2025. 
 
