@@ -15,7 +15,7 @@ layout: homepage
 
 ## Educations
 
-- **PhD - _Cyber Security on Cyber-Physical Power System_**, Delft University of Technology (2025)
+- **PhD - _Cyber Security on Cyber-Physical Power System Operational Technology_**, Delft University of Technology (2025)
 - **MSc - _Secure Software System_**, Imperial College London (2015)
 - **Bachelor - _Computer Engineering_**, Universitas Indonesia (2014)
 
@@ -33,6 +33,12 @@ layout: homepage
 - I. Semertzis, H. Goyel, V. S. Rajkumar, **A. Presekal**, A. Ştefanov and P. Palensky, "[Towards Real-Time Distinction of Power System Faults and Cyber Attacks on Digital Substations Using Cyber-Physical Event Correlation,](https://ieeexplore.ieee.org/abstract/document/10542753)" 2024 12th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES), Hong Kong, China, 2024, pp. 1-6.
 - **A. Presekal**, A. Ştefanov, V. S. Rajkumar and P. Palensky, "[Cyber Forensic Analysis for Operational Technology Using Graph-Based Deep Learning](https://www.researchgate.net/profile/Alfan-Presekal/publication/376293311_Cyber_Forensic_Analysis_for_Operational_Technology_Using_Graph-Based_Deep_Learning/links/658c343d2468df72d3dd4f31/Cyber-Forensic-Analysis-for-Operational-Technology-Using-Graph-Based-Deep-Learning.pdf)," 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Glasgow, United Kingdom, 2023, pp. 1-7.
 - V. S. Rajkumar, M. Tealane, A. Ştefanov, **A. Presekal** and P. Palensky, "[Cyber Attacks on Power System Automation and Protection and Impact Analysis,](https://www.researchgate.net/profile/Alfan-Presekal/publication/346808214_Cyber_Attacks_on_Power_System_Automation_and_Protection_and_Impact_Analysis/links/649497288de7ed28ba4cb36c/Cyber-Attacks-on-Power-System-Automation-and-Protection-and-Impact-Analysis.pdf)" 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), The Hague, Netherlands, 2020, pp. 247-254.
+
+## Research Project
+- Cooperative Cyber Protection for Modern Power Grids ([**COCOON**](https://www.cyber-cocoon.eu/)). June 2024 - 2025. Project funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101120221.
+- Vulnerabilities of Protection concepts for AC/DC Architectures on the Cyber Events/Cyber Attacks (WP3) - [*HVDC-WISE*](https://hvdc-wise.eu/). August 2023 - July 2024. HVDC-WISE is supported by the European Union’s Horizon Europe program under agreement 101075424. UK Research and Innovation funding for HVDC-WISE is provided under the UK government’s Horizon Europe funding guarantee [grant no. 10041877 & 10051113].
+- Control Room of The Future (CRoF), part of Electrical Sustainable Power Lab ([ESP Lab](https://www.tudelft.nl/ewi/onderzoek/faciliteiten/esp-lab)), TU Delft. January 2020 - 2025. 
+
 
 
 ## Journal and Article Reviewer Experiences
