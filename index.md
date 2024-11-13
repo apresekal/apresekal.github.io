@@ -54,6 +54,7 @@ layout: homepage
 - [Sustainable Energy, Grids and Networks (SEGAN)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100371258&tip=sid&clean=0), 2023 - Now 
 - [EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/) - [Q2](https://www.scimagojr.com/journalsearch.php?q=18202&tip=sid&clean=0), 2024 - Now 
 - [Signal, Image and Video Processing - Springer](https://link.springer.com/journal/11760) - [Q2](https://www.scimagojr.com/journalsearch.php?q=6200180165&tip=sid&clean=0), 2024 - Now 
+- [Journal of Engineering](https://digital-library.theiet.org/journal/joe) - [SJR](https://www.scimagojr.com/journalsearch.php?q=21101041515&tip=sid&clean=0), 2024 - Now
 
 
 ## Conference and Proceeding Reviewer Eperiences
