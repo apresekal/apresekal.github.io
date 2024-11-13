@@ -23,6 +23,9 @@ layout: homepage
 
 ## Journal Publications
 
+
+- **A. Presekal** et al. "[*Cyber Security of HVDC Systems: A Review of Cyber Threats, Defense, and Testbeds*](https://ieeexplore.ieee.org/abstract/document/10741528)", IEEE Access, early access.
+- I. Semertzis, A. Ştefanov, **A. Presekal**, B. Kruimer, J. L. R. Torres and P. Palensky, "[*Power System Stability Analysis From Cyber Attacks Perspective*](https://ieeexplore.ieee.org/abstract/document/10634523)", IEEE Access, vol. 12, pp. 113008-113035, 2024.
 - V. S. Rajkumar, A. Ştefanov,  **A. Presekal**, P. Palensky and J. L. R. Torres, "[*Cyber attacks on power grids: Causes and propagation of cascading failures*](https://ieeexplore.ieee.org/abstract/document/10256104/)", IEEE Access, vol. 11, pp. 103154-103176, 2023.
 - H. Pardede, K. Ramli, Y. Suryanto, N. Hayati and **A. Presekal**, "[*Speech enhancement for secure communication using coupled spectral subtraction and Wiener filter*](https://www.mdpi.com/2079-9292/8/8/897)", Electronics, vol. 8, no. 8, pp. 897, Aug. 2019.
 - R. Harwahyu, **A. Presekal** and R. F. Sari, "[*Lorawan performance evaluation with optimized configuration*](https://www.researchgate.net/publication/326739399_LoRaWAN_Performance_Evaluation_with_Optimized_Configuration)", Int. J. of Future Generation Communication and Networking, vol. 11, no. 4, pp. 51-68, 2018.
