@@ -1,6 +1,6 @@
 main:
 
-    - title: "Spatio-Temporal Advanced Persistent Threat Detection and Correlation for Cyber-Physical Power Systems using Enhanced GC-LSTM"
+  - title: "Spatio-Temporal Advanced Persistent Threat Detection and Correlation for Cyber-Physical Power Systems using Enhanced GC-LSTM"
     authors: <strong>Alfan Presekal</strong>*, Alexandru Ştefanov, Ioannis Semertzis, Peter Palensky (*Corresponding authors)
     conference_short: TSG
     conference: <strong> IEEE Transactions on Smart Grid, early access. </strong>
