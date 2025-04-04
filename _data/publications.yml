@@ -3,7 +3,7 @@ main:
   - title: "Spatio-Temporal Advanced Persistent Threat Detection and Correlation for Cyber-Physical Power Systems using Enhanced GC-LSTM"
     authors: <strong>Alfan Presekal</strong>*, Alexandru Ştefanov, Ioannis Semertzis, Peter Palensky (*Corresponding authors)
     conference_short: TSG
-    conference: <strong> IEEE Transactions on Smart Grid, early access. </strong>
+    conference: <strong> IEEE Transactions on Smart Grid,  vol. 16, no. 2, pp. 1654-1666, March 2025. </strong>
     pdf: https://ieeexplore.ieee.org/abstract/document/10705117
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -15,7 +15,7 @@ main:
   - title: "Attack graph model for cyber-physical power systems using hybrid deep learning"
     authors: <strong>Alfan Presekal</strong>*, Alexandru Ştefanov, Vetrivel Subramaniam Rajkumar, Peter Palensky (*Corresponding authors)
     conference_short: TSG
-    conference: <strong> IEEE Transactions on Smart Grid, vol. 14, no. 5, pp. 4007-4020, Sept. 2023. </strong>
+    conference: <strong> IEEE Transactions on Smart Grid, vol. 14, no. 5, pp. 4007-4020, Sept. 2023. </strong> 🏆 In 2025, the paper was awarded as one of the top five outstanding papers from the past three years, among over a thousand publications in IEEE TSG.
     pdf: https://ieeexplore.ieee.org/abstract/document/10017381
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
