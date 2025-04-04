@@ -26,7 +26,7 @@ main:
 
 
   - title: "A GNN-Based Generative Model for Generating Synthetic Cyber-Physical Power System Topology"
-    authors: Yigu Liu*; Haiwei Xie, <strong>Alfan Presekal</strong>, Alexandru Ştefanov, Peter Palensky (*Corresponding authors)
+    authors: Yigu Liu*; Haiwei Xie, <strong>Alfan Presekal</strong>, Alexandru Ştefanov, Peter Palensky
     conference_short: TSG
     conference: <strong> IEEE Transactions on Smart Grid, vol. 14, no. 6, pp. 4968-4971, Nov. 2023. </strong>
     pdf: https://ieeexplore.ieee.org/abstract/document/10214388
