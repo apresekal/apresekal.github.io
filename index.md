@@ -9,9 +9,9 @@ layout: homepage
 
 ## Research Interests
 
-- **Cyber Security:** anomaly detection, intrusion detection system
+- **Cyber Security:** attack graph, anomaly detection, intrusion detection system
 - **Artificial Intelligence:** graph neural network, time series classification
-- **Cyber-Physical System:** smart grid, SCADA, internet of things
+- **Cyber-Physical System:** operational technology, smart grid, SCADA, internet of things
 
 ## Educations
 
