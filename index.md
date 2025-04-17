@@ -53,18 +53,19 @@ layout: homepage
 
 
 ## Journal and Article Reviewer Experiences
-- [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411) - [Q1](https://www.scimagojr.com/journalsearch.php?q=19700170610&tip=sid&clean=0), 2024 - Now 
-- [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100338350&tip=sid&clean=0), 2024 - Now 
-- [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100372437&tip=sid&clean=0), 2022 - Now 
-- [IEEE Transactions on Power Delivery](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=61) - [Q1](https://www.scimagojr.com/journalsearch.php?q=17370&tip=sid&clean=0), 2024 - Now 
-- [IEEE Industrial Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4154573) - [Q1](https://www.scimagojr.com/journalsearch.php?q=5800207505&tip=sid&clean=0), 2023 - Now 
-- [IEEE Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100374601&tip=sid&clean=0), 2022 - Now 
-- [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) - [Q1](https://www.scimagojr.com/journalsearch.php?q=24182&tip=sid&clean=0), 2023 - Now 
-- [Sustainable Energy, Grids and Networks (SEGAN)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100371258&tip=sid&clean=0), 2023 - Now 
-- [Nature Scientific Report](https://www.nature.com/srep/) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100200805&tip=sid), 2024 - Now
-- [EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/) - [Q2](https://www.scimagojr.com/journalsearch.php?q=18202&tip=sid&clean=0), 2024 - Now 
-- [Signal, Image and Video Processing - Springer](https://link.springer.com/journal/11760) - [Q2](https://www.scimagojr.com/journalsearch.php?q=6200180165&tip=sid&clean=0), 2024 - Now 
-- [Journal of Engineering](https://digital-library.theiet.org/journal/joe) - [SJR](https://www.scimagojr.com/journalsearch.php?q=21101041515&tip=sid&clean=0), 2024 - Now
+- [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411) - [Q1](https://www.scimagojr.com/journalsearch.php?q=19700170610&tip=sid&clean=0), since 2024 
+- [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100338350&tip=sid&clean=0), since 2024  
+- [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100372437&tip=sid&clean=0), since 2022 
+- [IEEE Transactions on Power Delivery](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=61) - [Q1](https://www.scimagojr.com/journalsearch.php?q=17370&tip=sid&clean=0), since 2024 
+- [IEEE Industrial Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4154573) - [Q1](https://www.scimagojr.com/journalsearch.php?q=5800207505&tip=sid&clean=0), since 2023 
+- [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) - [Q1](https://www.scimagojr.com/journalsearch.php?q=24182&tip=sid&clean=0), since 2023 
+- [Sustainable Energy, Grids and Networks (SEGAN)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100371258&tip=sid&clean=0), since 2023 
+- [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety) - [Q1](https://www.scimagojr.com/journalsearch.php?q=13853&tip=sid), since 2025
+- [IEEE Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100374601&tip=sid&clean=0), since 2022 
+- [Nature Scientific Report](https://www.nature.com/srep/) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100200805&tip=sid), since 2024 
+- [EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/) - [Q2](https://www.scimagojr.com/journalsearch.php?q=18202&tip=sid&clean=0), since 2024 
+- [Signal, Image and Video Processing - Springer](https://link.springer.com/journal/11760) - [Q2](https://www.scimagojr.com/journalsearch.php?q=6200180165&tip=sid&clean=0), since 2024  
+- [Journal of Engineering](https://digital-library.theiet.org/journal/joe) - [SJR](https://www.scimagojr.com/journalsearch.php?q=21101041515&tip=sid&clean=0), since 2024
 
 
 
