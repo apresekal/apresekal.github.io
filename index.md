@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-- Ph.D. researcher of Cyber Resilient Power Grids at [Delft University of Technology](https://research.tudelft.nl/en/persons/a-presekal).
 - Assistant Professor of Resilient and Secure Cyber-Physical Intelligent System at [Universitas Indonesia](https://scholar.ui.ac.id/en/persons/alfan-presekal)
+- Postdoctoral researcher of Cyber Resilient Power Grids at [Delft University of Technology](https://research.tudelft.nl/en/persons/a-presekal).
+
 
 ## Research Interests
 
@@ -15,7 +16,7 @@ layout: homepage
 
 ## Educations
 
-- **PhD - _Cyber Security on Cyber-Physical Power System Operational Technology_**, Delft University of Technology (2025)
+- **PhD - _Advanced Persistent Threat Detection and Correlation for Cyber-Physical Power Systems: Enhancing Resilience of Power Grid Operational Technologies_**, Delft University of Technology (2025). [Dissertation](https://research.tudelft.nl/en/publications/advanced-persistent-threat-detection-and-correlation-for-cyber-ph)
 - **MSc - _Secure Software System_**, Imperial College London (2015)
 - **Bachelor - _Computer Engineering_**, Universitas Indonesia (2014)
 
