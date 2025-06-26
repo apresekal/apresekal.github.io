@@ -55,6 +55,7 @@ layout: homepage
 ## Journal and Article Reviewer Experiences
 - [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411) - [Q1](https://www.scimagojr.com/journalsearch.php?q=19700170610&tip=sid&clean=0), since 2024 
 - [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100338350&tip=sid&clean=0), since 2024  
+- [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424) - [Q1](https://www.scimagojr.com/journalsearch.php?q=144912&tip=sid&clean=0), since 2025 
 - [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902) - [Q1](https://www.scimagojr.com/journalsearch.php?q=21100372437&tip=sid&clean=0), since 2022 
 - [IEEE Transactions on Power Delivery](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=61) - [Q1](https://www.scimagojr.com/journalsearch.php?q=17370&tip=sid&clean=0), since 2024 
 - [IEEE Industrial Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4154573) - [Q1](https://www.scimagojr.com/journalsearch.php?q=5800207505&tip=sid&clean=0), since 2023 
